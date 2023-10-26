@@ -1,1 +1,4 @@
-check github
+Version: 0.1.2
+Date: 26. 10. 2023
+  Changes:
+    - Changed to collision_mask method
